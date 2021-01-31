@@ -2,7 +2,19 @@
 <hr>
 <h3>ScreenTok</h3>
 <hr>
-
+<div>
+  <img src="https://user-images.githubusercontent.com/38749700/106392836-0f716280-6437-11eb-906c-827004fa5d15.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392840-15674380-6437-11eb-92d5-048ac1679afa.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392844-1ac48e00-6437-11eb-959e-7a1307988ae7.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392849-1f894200-6437-11eb-9178-6467ac6b6fd5.jpg"/>
+</div>
+<br>
+<div>
+  <img src="https://user-images.githubusercontent.com/38749700/106392855-231cc900-6437-11eb-8ec5-52a528286e27.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392859-2617b980-6437-11eb-8927-dd15b03604ec.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392862-29ab4080-6437-11eb-8133-c2e7895228a1.jpg"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106392864-2ca63100-6437-11eb-99f7-492689624a9c.jpg"/>
+</div>
 <br><br>
 
 [프로젝트 기간] <br>
@@ -21,6 +33,7 @@ Python 1명 <br>
 Android(Kotlin) + MVVM + LiveData + Room + Hilt <br>
 다날 본인인증 연동 <br>
 잠금화면 서비스 개발 <br>
+Slack, Trello 를 이용한 협업 일정 관리 <br>
 Git 을 이용한 코드 관리 <br><br><br>
 
 <hr>
