@@ -1,5 +1,29 @@
 <h1>PORTFOLIO</h1>
 <hr>
+<h3>ScreenTok</h3>
+<hr>
+
+<br><br>
+
+[프로젝트 기간] <br>
+20년 10월 ~ 20년 12월 <br>
+
+[프로젝트 내용] <br>
+잠금화면에서 초성으로 등록한 앱 실행과 초성으로 등록한 연락처에 연락할 수 있는 애플리케이션<br>
+잠금화면에서 광고와 딥링크를 실행하면 포인트 적립이 가능하고 일정 포인트가 모이면 출금이 가능합니다.
+
+[프로젝트 인원] <br>
+Android 1명 <br>
+Python 1명 <br>
+디자인 1명 <br>
+
+[본인 역할] <br>
+Android(Kotlin) + MVVM + LiveData + Room + Hilt <br>
+다날 본인인증 연동 <br>
+잠금화면 서비스 개발 <br>
+Git 을 이용한 코드 관리 <br><br><br>
+
+<hr>
 <h3>CARU_ERP / CAR_PASS </h3>
 <hr>
 <div>
@@ -15,7 +39,7 @@
   <img src="https://user-images.githubusercontent.com/38749700/106391266-d08bde80-642f-11eb-9698-6c791e4d2346.PNG"/>
   <img src="https://user-images.githubusercontent.com/38749700/106391267-d41f6580-642f-11eb-8d10-32d6bcb67ed4.PNG"/>
 </div>
-<br>
+<br><br>
 
 [프로젝트 기간] <br>
 19년 10월 ~ 20년 03월 <br>
@@ -26,16 +50,14 @@
 [프로젝트 인원] <br>
 Android / Spring / php 1명 <br>
 php 1명 <br>
+디자인 1명 <br>
 
 [본인 역할] <br>
 Android(Kotlin) / Spring / php <br>
 렌터카 가용차량 관리 및 일반렌트, 사고대차 계약서 관리 구현<br>
 렌터카, 보험사, 공업사 오더 기능 구축 <br>
 포인트 출금을 위한 계좌인증 구현 <br>
-
-[라이브러리] <br>
-Retrofit2, GoogleMap, Firebase, gson, okhttp <br><br><br>
-
+Git 을 이용한 코드 관리 <br><br><br>
 
 <hr>
 <h3>CARU</h3>
@@ -46,7 +68,7 @@ Retrofit2, GoogleMap, Firebase, gson, okhttp <br><br><br>
   <img src="https://user-images.githubusercontent.com/38749700/106388459-f316fb00-6421-11eb-9604-bdccc92616e8.png"/>
   <img src="https://user-images.githubusercontent.com/38749700/106388467-f7431880-6421-11eb-906b-35cf1dbb8c10.png"/>
 </div>
-<br>
+<br><br>
  
 [프로젝트 기간] <br>
 19년 04월 ~ 19년 09월 / 20년 4월 <br>
@@ -57,6 +79,7 @@ Retrofit2, GoogleMap, Firebase, gson, okhttp <br><br><br>
 [프로젝트 인원] <br>
 Android / Spring / php 1명 <br>
 php 1명 <br>
+디자인 1명 <br>
 
 [본인 역할] <br>
 Android(Kotlin) / Spring / php <br>
@@ -64,6 +87,4 @@ AWS 서버 구축 <br>
 스마트키 (대여, 차량제어, 반납 프로세스) 및 차량 위치 조회를 활용한 서비스 구축<br>
 결제모듈 연동(아임포트)<br>
 운전면허 인증 <br>
-
-[라이브러리] <br>
-Retrofit2, GoogleMap, Firebase, gson, okhttp <br>
+Git 을 이용한 코드 관리 <br>
