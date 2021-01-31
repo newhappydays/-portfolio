@@ -1,7 +1,40 @@
 <h1>PORTFOLIO</h1>
 <hr>
 <h3>CARU_ERP / CAR_PASS </h3>
+<hr>
+<div>
+  <img src="https://user-images.githubusercontent.com/38749700/106390751-39be2280-642d-11eb-8e61-0ab3aa87b79e.PNG"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106390755-3e82d680-642d-11eb-9acd-70495897cf0a.PNG"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106390758-43e02100-642d-11eb-9353-897f1c9b8e7c.PNG"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106390760-46db1180-642d-11eb-9d22-2ae52a142a38.PNG"/>
+</div>
+<br>
+<div>
+  <img src="https://user-images.githubusercontent.com/38749700/106391254-c833a380-642f-11eb-9fa9-cbd660557ab1.png"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106391260-cc5fc100-642f-11eb-80b8-0c09a9bf2e21.PNG"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106391266-d08bde80-642f-11eb-9698-6c791e4d2346.PNG"/>
+  <img src="https://user-images.githubusercontent.com/38749700/106391267-d41f6580-642f-11eb-8d10-32d6bcb67ed4.PNG"/>
+</div>
+<br>
 
+[프로젝트 기간] <br>
+19년 10월 ~ 20년 03월 <br>
+
+[프로젝트 내용] <br>
+렌터카, 보험사, 공업사 업무 프로세스를 적용시킨 어플리케이션 <br>
+
+[프로젝트 인원] <br>
+Android / Spring / php 1명 <br>
+php 1명 <br>
+
+[본인 역할] <br>
+Android(Kotlin) / Spring / php <br>
+렌터카 가용차량 관리 및 일반렌트, 사고대차 계약서 관리 구현<br>
+렌터카, 보험사, 공업사 오더 기능 구축 <br>
+포인트 출금을 위한 계좌인증 구현 <br>
+
+[라이브러리] <br>
+Retrofit2, GoogleMap, Firebase, gson, okhttp <br><br><br>
 
 
 <hr>
