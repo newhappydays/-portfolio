@@ -30,7 +30,7 @@ Python 1명 <br>
 디자인 1명 <br>
 
 [본인 역할] <br>
-Android(Kotlin) - MVVM, LiveData, Room, Hilt <br>
+Android(Kotlin) - MVVM, LiveData, Room, Hilt, DataBinding <br>
 다날 본인인증 연동 <br>
 잠금화면 서비스 개발 <br>
 Slack, Trello 를 이용한 협업 일정 관리 <br>
