@@ -3,19 +3,16 @@
 <h3>Linkey</h3>
 <hr>
 <div>
-  <img src="https://user-images.githubusercontent.com/38749700/172536742-0211e2f7-dd2c-4b9c-91ec-f4d9deb547e7.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536764-b29e3daf-0564-44e0-a3f5-1c097213700b.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536776-abafb206-1776-4c16-9d2e-f62aabb1a6b1.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536787-8c228bef-e0c3-432a-8540-b330d5057798.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536796-2b03e076-f086-4276-bcfb-9f06415743c6.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536817-81dca1b7-a268-47b3-95ec-dc9c513b06bd.jpg" width="250"/>
-</div>
-<br>
-<div>
-  <img src="https://user-images.githubusercontent.com/38749700/172536833-fb89b949-d1f7-48c2-8457-12b5c1dfbac8.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536845-1dac25f2-c4dd-41e4-88e6-e601cda8ac21.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536870-ae9e9b0f-3679-4b05-9f60-a64e6f0f42cf.jpg" width="250"/>
-  <img src="https://user-images.githubusercontent.com/38749700/172536892-eea5fa34-3526-4bc8-8baf-d0008e436578.jpg" width="250"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536742-0211e2f7-dd2c-4b9c-91ec-f4d9deb547e7.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536764-b29e3daf-0564-44e0-a3f5-1c097213700b.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536776-abafb206-1776-4c16-9d2e-f62aabb1a6b1.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536787-8c228bef-e0c3-432a-8540-b330d5057798.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536796-2b03e076-f086-4276-bcfb-9f06415743c6.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536817-81dca1b7-a268-47b3-95ec-dc9c513b06bd.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536833-fb89b949-d1f7-48c2-8457-12b5c1dfbac8.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536845-1dac25f2-c4dd-41e4-88e6-e601cda8ac21.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536870-ae9e9b0f-3679-4b05-9f60-a64e6f0f42cf.jpg" width="230"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536892-eea5fa34-3526-4bc8-8baf-d0008e436578.jpg" width="230"/>
 </div>
 <br><br>
 
