@@ -8,8 +8,7 @@
 21년 4월 ~ 21년 9월 <br>
 
 [프로젝트 내용] <br>
-잠금화면에서 초성으로 등록한 앱 실행과 초성으로 등록한 연락처에 연락할 수 있는 애플리케이션<br>
-잠금화면에서 광고와 딥링크를 실행하면 포인트 적립이 가능하고 일정 포인트가 모이면 출금이 가능합니다.
+- 오프라인 소상공인들을 위한 마케팅, 고객관리 애플리케이션
 
 [프로젝트 인원] <br>
 Android 1명 <br>
@@ -19,9 +18,8 @@ Spring 1명 <br>
 
 [본인 역할] <br>
 Android(Kotlin) - MVVM, Coroutine,LiveData, Room, Koin, DataBinding <br>
-다날 본인인증 연동 <br>
-잠금화면 서비스 개발 <br>
-Slack, Trello 를 이용한 협업 일정 관리 <br>
+Linkey 구매자, 판매자앱 개발 <br>
+Slack, Jira, Notion을 이용한 협업 일정 관리 <br>
 Git 을 이용한 코드 관리 <br><br><br>
 
 <hr>
