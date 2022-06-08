@@ -3,7 +3,7 @@
 <h3>Linkey</h3>
 <hr>
 <div>
-  <img src="[https://user-images.githubusercontent.com/38749700/106392836-0f716280-6437-11eb-906c-827004fa5d15.jpg](https://user-images.githubusercontent.com/38749700/172536742-0211e2f7-dd2c-4b9c-91ec-f4d9deb547e7.jpg)"/>
+  <img src="https://user-images.githubusercontent.com/38749700/172536742-0211e2f7-dd2c-4b9c-91ec-f4d9deb547e7.jpg/>
 </div>
 <br><br>
 
