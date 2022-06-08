@@ -17,7 +17,7 @@ Spring 1명 <br>
 디자인 2명 <br>
 
 [본인 역할] <br>
-Android(Kotlin) - MVVM, Coroutine,LiveData, Room, Koin, DataBinding <br>
+Android(Kotlin) - MVVM, Coroutine, LiveData, Room, Koin, DataBinding <br>
 Linkey 구매자, 판매자앱 개발 <br>
 Slack, Jira, Notion을 이용한 협업 일정 관리 <br>
 Git 을 이용한 코드 관리 <br><br><br>
