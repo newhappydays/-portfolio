@@ -1,5 +1,33 @@
 <h1>PORTFOLIO</h1>
 <hr>
+<h3>Linkey</h3>
+<hr>
+<div>
+  <img src="[https://user-images.githubusercontent.com/38749700/106392836-0f716280-6437-11eb-906c-827004fa5d15.jpg](https://user-images.githubusercontent.com/38749700/172536742-0211e2f7-dd2c-4b9c-91ec-f4d9deb547e7.jpg)"/>
+</div>
+<br><br>
+
+[프로젝트 기간] <br>
+21년 4월 ~ 21년 9월 <br>
+
+[프로젝트 내용] <br>
+잠금화면에서 초성으로 등록한 앱 실행과 초성으로 등록한 연락처에 연락할 수 있는 애플리케이션<br>
+잠금화면에서 광고와 딥링크를 실행하면 포인트 적립이 가능하고 일정 포인트가 모이면 출금이 가능합니다.
+
+[프로젝트 인원] <br>
+Android 1명 <br>
+Ios 2명 <br>
+Spring 1명 <br>
+디자인 2명 <br>
+
+[본인 역할] <br>
+Android(Kotlin) - MVVM, Coroutine,LiveData, Room, Koin, DataBinding <br>
+다날 본인인증 연동 <br>
+잠금화면 서비스 개발 <br>
+Slack, Trello 를 이용한 협업 일정 관리 <br>
+Git 을 이용한 코드 관리 <br><br><br>
+
+<hr>
 <h3>ScreenTok</h3>
 <hr>
 <div>
@@ -18,7 +46,7 @@
 <br><br>
 
 [프로젝트 기간] <br>
-3스프린트 <br>
+20년 10월 ~ 21년 1월 <br>
 
 [프로젝트 내용] <br>
 잠금화면에서 초성으로 등록한 앱 실행과 초성으로 등록한 연락처에 연락할 수 있는 애플리케이션<br>
